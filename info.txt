@@ -1,0 +1,30 @@
+                        # SIMPLE BANK
+
+         * Create and Manage Accounts
+            -> Owner, Balance & Currency
+
+
+         * Record all Balance changes
+            -> Create an account entry for each change
+
+
+         * Money Transer  Transaction
+          -> perform money transfer between 2 accounts consistently 
+          within transaction        
+
+
+
+
+                      # Database Design
+
+          * Design DB Schema                      
+          -> Design a SQL DB using dbdiagram.io
+
+
+          * Save & share DB diagram
+          -> Save the DB schema as PDF/PNG diagram and share it 
+
+          *Generate SQL Code
+          -> Generate code to create the schema in a target database 
+            engine:Postgress/MySQL/SQL server
+          
